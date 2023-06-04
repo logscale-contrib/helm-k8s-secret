@@ -1,0 +1,7 @@
+nameOverride: ""
+fullnameOverride: ""
+
+secrets:
+  - name: test
+    data:
+      foo: bar
